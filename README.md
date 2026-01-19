@@ -9,7 +9,4 @@ Prototype of the Product Search App that displays locations of products in store
 ![Product Search UI_UX Prototype_page-0005](https://github.com/user-attachments/assets/5cfc35d9-7326-4e17-8214-f71d0ebda0f9)
 ![Product Search UI_UX Prototype_page-0006](https://github.com/user-attachments/assets/2bf03837-6aa3-4011-9395-42787954ee31)
 
-
-
-
-
+[Product Search UI_UX Prototype.pdf](https://github.com/user-attachments/files/24716557/Product.Search.UI_UX.Prototype.pdf)
